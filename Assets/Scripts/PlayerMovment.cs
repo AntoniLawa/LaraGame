@@ -2,9 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moving : MonoBehaviour
+
+public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
+
+    [Header("Movement")]
+
     void Start()
     {
         
